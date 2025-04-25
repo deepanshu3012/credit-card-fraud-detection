@@ -1,0 +1,7 @@
+numpy
+pandas
+scikit-learn
+matplotlib
+seaborn
+jupyter
+Dataset:https://www.kaggle.com/datasets/kartik2112/fraud-detection
